@@ -28,7 +28,10 @@ class PopularProducts extends StatelessWidget {
                     return ProductCard(
                       product: demoProducts[index],
                       press: () {
-                        Navigator.pushNamed(context, DetailsScreen.routeName);
+                        Navigator.pushNamed(context, DetailsScreen.routeName,
+                            arguments: ProductDetailsArguments(
+                              product: demoProducts[index],
+                            ));
                       },
                     );
                   return SizedBox.shrink();
