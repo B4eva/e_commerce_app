@@ -19,6 +19,7 @@ class PopularProducts extends StatelessWidget {
         ),
         SingleChildScrollView(
           scrollDirection: Axis.horizontal,
+          physics: ScrollPhysics(parent: AlwaysScrollableScrollPhysics()),
           child: Row(
             children: [
               ...List.generate(
