@@ -1,12 +1,18 @@
 # e_commerce_app
 
-A new Flutter project.
+A new Flutter e-commerce app. 
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+IN my quest to build beautiful and responsive apps,
+i fell on this github  [Repo](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI).
+so i rebuild it from scratch to better understand clean architecture, widgets, responsiveness. 
+
 
 A few resources to get you started if this is your first Flutter project:
+
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
