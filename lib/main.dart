@@ -1,7 +1,7 @@
 import 'package:e_commerce_app/constants.dart';
 import 'package:e_commerce_app/outils/user_simple_preference.dart';
 import 'package:e_commerce_app/routes.dart';
-import 'package:e_commerce_app/screens/profile/profile_screen.dart';
+
 import 'package:e_commerce_app/screens/splash/splash_screen.dart';
 import 'package:e_commerce_app/theme.dart';
 import 'package:flutter/material.dart';
